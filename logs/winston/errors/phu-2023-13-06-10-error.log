@@ -1,0 +1,2 @@
+Tue Jun 13 2023 10:15:14}[PH!] error: Failed to connect database querySrv ETIMEOUT _mongodb._tcp.cluster0.ewhqblg.mongodb.net
+Tue Jun 13 2023 10:27:58}[PH!] error: Cast to ObjectId failed for value "64817c9d89cd32" (type string) at path "_id" for model "AcademicSemester"

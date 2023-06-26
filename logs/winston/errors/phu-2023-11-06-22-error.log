@@ -1,0 +1,2 @@
+Sun Jun 11 2023 22:16:52}[PH!] error: Cast to number failed for value "i" (type string) at path "year" for model "AcademicSemester"
+Sun Jun 11 2023 22:19:24}[PH!] error: Failed to connect database queryTxt ETIMEOUT cluster0.ewhqblg.mongodb.net

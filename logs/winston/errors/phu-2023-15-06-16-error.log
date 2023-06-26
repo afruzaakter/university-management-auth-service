@@ -1,0 +1,16 @@
+Thu Jun 15 2023 16:45:50}[PH!] error: Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ewhqblg.mongodb.net
+Thu Jun 15 2023 16:47:15}[PH!] error: Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ewhqblg.mongodb.net
+Thu Jun 15 2023 16:47:19}[PH!] error: Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ewhqblg.mongodb.net
+Thu Jun 15 2023 16:47:21}[PH!] error: Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ewhqblg.mongodb.net
+Thu Jun 15 2023 16:47:29}[PH!] error: Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ewhqblg.mongodb.net
+Thu Jun 15 2023 16:47:38}[PH!] error: Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ewhqblg.mongodb.net
+Thu Jun 15 2023 16:47:45}[PH!] error: Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ewhqblg.mongodb.net
+Thu Jun 15 2023 16:52:20}[PH!] error: Assignment to constant variable.
+Thu Jun 15 2023 16:53:37}[PH!] error: Assignment to constant variable.
+Thu Jun 15 2023 16:54:49}[PH!] error: Assignment to constant variable.
+Thu Jun 15 2023 16:55:11}[PH!] error: Assignment to constant variable.
+Thu Jun 15 2023 16:55:23}[PH!] error: Assignment to constant variable.
+Thu Jun 15 2023 16:55:32}[PH!] error: Assignment to constant variable.
+Thu Jun 15 2023 16:56:18}[PH!] error: Assignment to constant variable.
+Thu Jun 15 2023 16:57:16}[PH!] error: Assignment to constant variable.
+Thu Jun 15 2023 16:59:25}[PH!] error: Assignment to constant variable.
